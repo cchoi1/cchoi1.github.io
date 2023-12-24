@@ -24,19 +24,19 @@ Please reach out via email if you would like to chat about research or collabora
 Publications
 ------
 - <span style="font-weight:bold;">Conservative Prediction via Data-Driven Confidence Minimization</span><br>
-  <span style="font-size:4mm;">Caroline Choi<sup>*</sup>, Fahim Tajwar<sup>*</sup>, Yoonho Lee<sup>*</sup>, Ananya Kumar, Huaxiu Yao, Chelsea Finn. *arXiv*, 2023.</span><br>
+  <span style="font-size:4mm;">Caroline Choi*, Fahim Tajwar* Yoonho Lee*, Ananya Kumar, Huaxiu Yao, Chelsea Finn. *arXiv*, 2023.</span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/abs/2306.04974) | [code](https://github.com/tajwarfahim/dcm)</span>
 - <span style="font-weight:bold;">Wild-Time: A Benchmark of In-the-Wild Distribution Shift Over Time</span><br>
-  <span style="font-size:4mm;">Huaxiu Yao<sup>*</sup>, Caroline Choi<sup>*</sup>, Bochuan Cao, Yoonho Lee, Pang Wei Koh, Chelsea Finn. *NeurIPS (Datasets and Benchmarks Track)*, 2022.</span><br>
+  <span style="font-size:4mm;">Huaxiu Yao*, Caroline Choi*, Bochuan Cao, Yoonho Lee, Pang Wei Koh, Chelsea Finn. *NeurIPS (Datasets and Benchmarks Track)*, 2022.</span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/abs/2211.14238) | [code](https://github.com/huaxiuyao/Wild-Time) | [website](https://wild-time.github.io) </span>
 - <span style="font-weight:bold;">Symbol Length in Brauer Groups of Elliptic Curves</span><br>
-  <span style="font-size:4mm;">Mateo Attanasio<sup>*</sup>, Caroline Choi<sup>*</sup>, Andrei Mandelshtam<sup>*</sup>. *Proceedings of the American Mathematical Society*, 2023.</span><br>
+  <span style="font-size:4mm;">Mateo Attanasio*, Caroline Choi*, Andrei Mandelshtam*. *Proceedings of the American Mathematical Society*, 2023.</span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/abs/2107.10886)</span>
 - <span style="font-weight:bold;">On Class Numbers, Torsion Subgroups, and Quadratic Twists of Elliptic Curves</span><br>
-  <span style="font-size:4mm;">Talia Blum<sup>*</sup>, Caroline Choi<sup>*</sup>, Alexandra Hoey<sup>*</sup>, Jonas Iskander<sup>*</sup>, Kaya Lakein<sup>*</sup>, Thomas Martinez<sup>*</sup>. *Transactions of the American Mathematical Society*, 2022.</span><br>
+  <span style="font-size:4mm;">Talia Blum*, Caroline Choi*, Alexandra Hoey*, Jonas Iskander*, Kaya Lakein*, Thomas Martinez*. *Transactions of the American Mathematical Society*, 2022.</span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/abs/2007.08756)</span> | [code](https://github.com/cchoi1/class-numbers)
 - <span style="font-weight:bold;">On Permutation Weights and q-Eulerian Polynomials</span><br>
-  <span style="font-size:4mm;">Aman Agrawal<sup>*</sup>, Caroline Choi<sup>*</sup>, Nathan Sun<sup>*</sup>. *Annals of Combinatorics*, 2020.</span><br>
+  <span style="font-size:4mm;">Aman Agrawal*, Caroline Choi*, Nathan Sun*. *Annals of Combinatorics*, 2020.</span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/abs/1809.07398) | [code](https://github.com/cchoi1/permutation-weights)</span>
 <br><br>
-<span style="font-size:4mm;"><sup>*</sup> denotes equal contribution</span>
+<span style="font-size:4mm;">* denotes equal contribution</span>
