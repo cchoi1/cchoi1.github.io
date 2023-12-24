@@ -17,7 +17,7 @@ Recently, I've worked on adapting foundation models to downstream tasks and unde
 
 Previously, I did my undergraduate in mathematics (B.S.) at Stanford.
 
-If you're interested in discussing research or potential collaborations, please don't hesitate to reach out via email!
+Please reach out via email if you would like to chat about research or collaboration!
 
 [//]: # (If you're interested in discussing research or potential collaborations, please don't hesitate to reach out to me via email!)
 
