@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Caroline Choi!"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Caroline! I am a Master's student at Stanford University studying Computer Science. I am fortunate to be advised by Prof. Chelsea Finn and part of the Stanford IRIS lab.
+Hi! I'm Caroline, a Master's student at Stanford University studying Computer Science. I am fortunate to be advised by Prof. Chelsea Finn and part of the Stanford IRIS lab.
 
 My research interests lie in machine learning, with a focus on developing robust and trustworthy AI systems. I'm particularly fascinated by the challenges of adapting foundation models and understanding in-the-wild distribution shifts.
 
