@@ -8,18 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Caroline, a Master's student at Stanford University studying Computer Science. I am fortunate to be advised by Prof. Chelsea Finn and part of the Stanford IRIS lab.
+[//]: # (Hi! I'm Caroline, a Master's student at Stanford University studying Computer Science. )
 
-My research interests lie in machine learning, with a focus on developing robust and trustworthy AI systems. 
-Recently, I've worked on adapting foundation models to downstream tasks and understanding real-world distribution shifts.
+[//]: # (I am fortunate to be advised by Prof. Chelsea Finn and part of the Stanford IRIS lab.)
 
-<!-- Feel free to add more personal statements or details about your research interests here -->
+[//]: # ()
+[//]: # (My research interests lie in machine learning. )
 
-Previously, I did my undergraduate in mathematics (B.S.) at Stanford.
+[//]: # (Recently, I've worked on trustworthy machine learning, specifically robust adaptation of foundation models and understanding real-world distribution shifts.)
 
-Please reach out via email if you would like to chat about research or collaboration!
+[//]: # (I aim to draw inspiration from mathematics and cognitive science to develop more robust and interpretable machine learning algorithms.)
 
-[//]: # (If you're interested in discussing research or potential collaborations, please don't hesitate to reach out to me via email!)
+[//]: # ()
+[//]: # (Previously, I did my undergraduate in mathematics &#40;B.S.&#41; at Stanford.)
+
+[//]: # ()
+[//]: # (Please reach out via email if you would like to chat about research or collaboration!)
+
+Hi! I'm Caroline, a Master's student at Stanford University studying Computer Science.
+I am fortunate to be advised by Professor Chelsea Finn and a part of the Stanford IRIS lab.
+
+My research interests lie in machine learning. 
+Recently, I've worked on trustworthy machine learning, specifically robust adaptation of foundation models and understanding real-world distribution shifts.
+
+Previously, I completed my undergraduate studies in mathematics (B.S.), also at Stanford.
+
+I'm always open to discussions about research or potential collaborations. Feel free to get in touch with me via email!
 
 Publications
 ------
