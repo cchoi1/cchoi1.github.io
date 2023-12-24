@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Caroline Choi"
 title_separator          : "-"
 name                     : &name "Caroline Choi"
-description              : &description "personal description"
+description              : &description "M.S. Student in CS at Stanford"
 url                      : https://cchoi1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cchoi1/cchoi1.github.io"
+repository               : "cchoi1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/cchoi1"
+  github           : "cchoi1"
   google_plus      :
   keybase          :
   instagram        :
