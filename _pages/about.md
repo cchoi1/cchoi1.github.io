@@ -29,7 +29,7 @@ Hi! I'm Caroline, a Master's student at Stanford University studying Computer Sc
 I am fortunate to be advised by Professor Chelsea Finn and a part of the Stanford IRIS lab.
 
 My research interests lie in machine learning. 
-Recently, I've worked on trustworthy machine learning, specifically robust adaptation of foundation models and understanding real-world distribution shifts.
+Recently, I've worked on trustworthy machine learning, studying robust adaptation of foundation models and real-world distribution shifts.
 
 Previously, I completed my undergraduate studies in mathematics (B.S.), also at Stanford.
 
