@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Caroline Choi"
-  avatar           : "/images/caroline_choi.jpg"
+  avatar           : "./images/caroline_choi.jpg"
   bio              : "Email: cchoi1 + at + stanford + dot + edu"
   location         : "Stanford, CA"
   employer         :

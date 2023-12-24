@@ -10,7 +10,8 @@ redirect_from:
 
 Hi! I'm Caroline, a Master's student at Stanford University studying Computer Science. I am fortunate to be advised by Prof. Chelsea Finn and part of the Stanford IRIS lab.
 
-My research interests lie in machine learning, with a focus on developing robust and trustworthy AI systems. I'm particularly fascinated by the challenges of adapting foundation models and understanding in-the-wild distribution shifts.
+My research interests lie in machine learning, with a focus on developing robust and trustworthy AI systems. 
+Recently, I've worked on adapting foundation models to downstream tasks and understanding distribution shifts in the real world.
 
 <!-- Feel free to add more personal statements or details about your research interests here -->
 
