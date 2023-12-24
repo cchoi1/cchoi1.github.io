@@ -83,7 +83,7 @@ author:
   name             : "Caroline Choi"
   avatar           : "caroline_choi2.jpg"
   bio              : "Email: cchoi1 + at + stanford + dot + edu"
-  location         : "Stanford, CA"
+  location         : # "Stanford, CA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=f4G8d00AAAAJ&hl=en"
