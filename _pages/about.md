@@ -24,8 +24,10 @@ Please reach out via email if you would like to chat about research or collabora
 Publications
 ------
 - <span style="font-weight:bold;">Conservative Prediction via Data-Driven Confidence Minimization</span><br>
-  <span style="font-size:4mm;">Caroline Choi*, Fahim Tajwar*, Yoonho Lee*, Ananya Kumar, Huaxiu Yao, Chelsea Finn. *arXiv*, 2023.</span><br>
+  <span style="font-size:4mm;">Caroline Choi<sup>*</sup>, Fahim Tajwar<sup>*</sup>, Yoonho Lee<sup>*</sup>, Ananya Kumar, Huaxiu Yao, Chelsea Finn. *arXiv*, 2023.</span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/abs/2306.04974) | [code](https://github.com/tajwarfahim/dcm) </span>
 - <span style="font-weight:bold;">Wild-Time: A Benchmark of In-the-Wild Distribution Shift Over Time</span><br>
-  <span style="font-size:4mm;">Huaxiu Yao*, Caroline Choi*, Bochuan Cao, Yoonho Lee, Pang Wei Koh, Chelsea Finn. *NeurIPS (Datasets and Benchmarks Track)*, 2022.</span><br>
+  <span style="font-size:4mm;">Huaxiu Yao<sup>*</sup>, Caroline Choi<sup>*</sup>, Bochuan Cao, Yoonho Lee, Pang Wei Koh, Chelsea Finn. *NeurIPS (Datasets and Benchmarks Track)*, 2022.</span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/abs/2211.14238) | [code](https://github.com/huaxiuyao/Wild-Time) | [website](https://wild-time.github.io) </span>
+<br><br>
+<span style="font-size:4mm;"><sup>*</sup> denotes equal contribution</span>
