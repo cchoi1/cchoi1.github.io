@@ -35,10 +35,13 @@ Previously, I completed my undergraduate studies in mathematics (B.S.), also at 
 
 I'm always open to discussions about research or potential collaborations. Feel free to get in touch with me via email!
 
-Publications
+Publications \& Preprints
 ------
+- <span style="font-weight:bold;">AUTOFT: Robust Fine-Tuning by Optimizing Hyperparameters on OOD Data</span><br>
+  <span style="font-size:4mm;"><strong>Caroline Choi\*</strong>, Yoonho Lee\*, Annie Chen, Allan Zhou, Aditi Raghunathan, Chelsea Finn. *NeurIPS DistShift Workshop*, 2023.</span><br>
+  <span style="font-size:4mm;">
 - <span style="font-weight:bold;">Conservative Prediction via Data-Driven Confidence Minimization</span><br>
-  <span style="font-size:4mm;"><strong>Caroline Choi\*</strong>, Fahim Tajwar\*, Yoonho Lee\*, Ananya Kumar, Huaxiu Yao, Chelsea Finn. *arXiv*, 2023.</span><br>
+  <span style="font-size:4mm;"><strong>Caroline Choi\*</strong>, Fahim Tajwar\*, Yoonho Lee\*, Ananya Kumar, Huaxiu Yao, Chelsea Finn. *ICLR Workshops: TrustML, ME-FOMO*.</span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/abs/2306.04974) | [code](https://github.com/tajwarfahim/dcm)</span>
 - <span style="font-weight:bold;">Wild-Time: A Benchmark of In-the-Wild Distribution Shift Over Time</span><br>
   <span style="font-size:4mm;">Huaxiu Yao\*, <strong>Caroline Choi\*</strong>, Bochuan Cao, Yoonho Lee, Pang Wei Koh, Chelsea Finn. *NeurIPS (Datasets and Benchmarks Track)*, 2022.</span><br>
