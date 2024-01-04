@@ -25,19 +25,21 @@ redirect_from:
 [//]: # ()
 [//]: # (Please reach out via email if you would like to chat about research or collaboration!)
 
-Hi! I'm Caroline, a Master's student at Stanford University studying Computer Science.
-I am fortunate to be advised by Professor Chelsea Finn and a part of the Stanford IRIS lab.
+Hi! I'm a Master's student at Stanford University pursuing an M.S. in Computer Science.
+I currently work on robust and trustworthy machine learning at the [Stanford IRIS lab](https://irislab.stanford.edu), advised by Professor [Chelsea Finn](https://ai.stanford.edu/~cbfinn/).
+I completed my undergraduate studies in math (B.S.), also at Stanford.
+Previously, I conducted research in pure math at the University of Virginia Research Experience for Undergraduates (REU), advised by Professors [Charlotte Ure](https://about.illinoisstate.edu/cure/) and [Ken Ono](https://uva.theopenscholar.com/ken-ono/).
+I also interned at Snap and Meta, where I worked on weak semi-supervised object detection and infrastructure for privacy-preserving machine learning.
 
-My research interests lie in machine learning. 
-Recently, I've worked on trustworthy machine learning, studying robust adaptation of foundation models and real-world distribution shifts.
+At Stanford, I served as Professional Development Chair of Tau Beta Pi (Engineering Honors Society).
 
-Previously, I completed my undergraduate studies in mathematics (B.S.), also at Stanford.
+Recently, I've been thinking about robust adaptation of foundation models and out-of-distribution generalization.
 
 I'm always open to discussions about research or potential collaborations. Feel free to get in touch with me via email!
 
 Publications \& Preprints
 ------
-- <span style="font-weight:bold;">AUTOFT: Robust Fine-Tuning by Optimizing Hyperparameters on OOD Data</span><br>
+- <span style="font-weight:bold;">AutoFT: Robust Fine-Tuning by Optimizing Hyperparameters on OOD Data</span><br>
   <span style="font-size:4mm;"><strong>Caroline Choi\*</strong>, Yoonho Lee\*, Annie Chen, Allan Zhou, Aditi Raghunathan, Chelsea Finn. *NeurIPS DistShift Workshop*, 2023.</span><br>
   <span style="font-size:4mm;">
 - <span style="font-weight:bold;">Conservative Prediction via Data-Driven Confidence Minimization</span><br>
