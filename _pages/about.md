@@ -27,13 +27,12 @@ redirect_from:
 
 Hi! I'm a master's student at Stanford University pursuing an M.S. in Computer Science.
 I currently work on robust and trustworthy machine learning at the [Stanford IRIS lab](https://irislab.stanford.edu), advised by Professor [Chelsea Finn](https://ai.stanford.edu/~cbfinn/).
+Recently, I've worked on robust adaptation of foundation models and out-of-distribution generalization.
 I completed my undergraduate studies in math (B.S.), also at Stanford.
-Previously, I conducted research in pure math at the University of Virginia Research Experience for Undergraduates (REU), advised by Professors [Charlotte Ure](https://about.illinoisstate.edu/cure/) and [Ken Ono](https://uva.theopenscholar.com/ken-ono/).
+Previously, I conducted math research at the University of Virginia Research Experience for Undergraduates (REU)(), advised by Professors [Charlotte Ure](https://about.illinoisstate.edu/cure/) and [Ken Ono](https://uva.theopenscholar.com/ken-ono/).
 I also interned at Snap and Meta, where I worked on weak semi-supervised object detection and infrastructure for privacy-preserving machine learning, respectively.
 
 At Stanford, I served as Professional Development Chair of [Tau Beta Pi](https://tbp.stanford.edu/professional/) (Engineering Honors Society).
-
-Recently, I've worked on robust adaptation of foundation models and out-of-distribution generalization.
 
 I'm always open to discussions about research or potential collaborations. Feel free to get in touch with me via email!
 
