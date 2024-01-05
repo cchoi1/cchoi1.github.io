@@ -53,7 +53,7 @@ Publications & Preprints
   <span style="font-size:4mm;">[paper](https://arxiv.org/abs/2107.10886)</span>
 - <span style="font-weight:bold;">On Class Numbers, Torsion Subgroups, and Quadratic Twists of Elliptic Curves</span><br>
   <span style="font-size:4mm;">Talia Blum\*, <strong>Caroline Choi\*</strong>, Alexandra Hoey\*, Jonas Iskander\*, Kaya Lakein\*, Thomas Martinez\*. *Transactions of the American Mathematical Society*, 2022.</span><br>
-  <span style="font-size:4mm;">[paper](https://arxiv.org/abs/2007.08756)</span> | [code](https://github.com/cchoi1/class-numbers)</span>
+  <span style="font-size:4mm;">[paper](https://arxiv.org/abs/2007.08756) | [code](https://github.com/cchoi1/class-numbers)</span>
 - <span style="font-weight:bold;">On Permutation Weights and q-Eulerian Polynomials</span><br>
   <span style="font-size:4mm;">Aman Agrawal\*, <strong>Caroline Choi\*</strong>, Nathan Sun\*. *Annals of Combinatorics*, 2020.</span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/abs/1809.07398) | [code](https://github.com/cchoi1/permutation-weights)</span>
