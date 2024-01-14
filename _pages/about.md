@@ -34,7 +34,7 @@ I also interned at Snap and Meta, where I worked on weak semi-supervised object 
 
 At Stanford, I served as Professional Development Chair of [Tau Beta Pi](https://tbp.stanford.edu/professional/) (Engineering Honors Society).
 
-I'm always open to chat about research. Feel free to get in touch via email!
+Please get in touch with me via email if you would like to chat about research!
 
 Publications & Preprints
 ------
