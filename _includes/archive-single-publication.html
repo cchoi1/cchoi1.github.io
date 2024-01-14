@@ -30,7 +30,7 @@
       {% else %}<span class="archive__item-publication" itemprop="description">{{ post.preprint }}</span>{% endif %}
       {% if post.award and post.award != "" %}<span class="archive__item-publication" itemprop="description" style="color:red">{{ post.award }} 🎉</span>{% endif %}
       <br>
-      <p class="archive__item-publication" itemprop="description">TLDR: {{ post.tldr }}</p>
+      <p class="archive__item-publication" itemprop="description">{{ post.tldr }}</p>
       {% if post.categories %}
         {% assign current = post %}
         <span class="archive__item-publication">
