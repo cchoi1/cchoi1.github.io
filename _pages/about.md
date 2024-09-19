@@ -8,33 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-[//]: # (Hi! I'm Caroline, a Master's student at Stanford University studying Computer Science. )
+[//]: # (Hi! I'm Caroline, a first-year computer science PhD student at Stanford. )
 
-[//]: # (I am fortunate to be advised by Prof. Chelsea Finn and part of the Stanford IRIS lab.)
+[//]: # (I am grateful to be supported by an NSF Graduate Research Fellowship.)
 
 [//]: # ()
 [//]: # (My research interests lie in machine learning. )
 
 [//]: # (Recently, I've worked on trustworthy machine learning, specifically robust adaptation of foundation models and understanding real-world distribution shifts.)
 
-[//]: # (I aim to draw inspiration from mathematics and cognitive science to develop more robust and interpretable machine learning algorithms.)
-
 [//]: # ()
-[//]: # (Previously, I did my undergraduate in mathematics &#40;B.S.&#41; at Stanford.)
+[//]: # (Previously, I graduated from Stanford with a &#40;B.S.&#41 in Mathematics and an &#40;M.S.&#41 in Computer Science. I am grateful to have worked in Chelsea Finn's IRIS lab.)
 
 [//]: # ()
 [//]: # (Please reach out via email if you would like to chat about research or collaboration!)
 
-Hi! I'm a Master's student at Stanford University pursuing an M.S. in Computer Science.
-I currently work on robust and trustworthy machine learning at the [Stanford IRIS lab](https://irislab.stanford.edu), advised by Professor [Chelsea Finn](https://ai.stanford.edu/~cbfinn/).
-Recently, I've worked on adaptation of foundation models and out-of-distribution generalization.
-I completed my undergraduate studies in math (B.S.), also at Stanford.
-Previously, I worked on math research at the [University of Virginia Research Experience for Undergraduates (REU)](https://uva.theopenscholar.com/reu/program), advised by Professors [Charlotte Ure](https://about.illinoisstate.edu/cure/) and [Ken Ono](https://uva.theopenscholar.com/ken-ono/).
-I also interned at Snap and Meta, where I worked on weak semi-supervised object detection and infrastructure for privacy-preserving machine learning, respectively.
+Hi! I am a first-year PhD student in Computer Science at Stanford University.
+I am grateful to be supported by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org).
 
+Previously, I received a B.S. in Mathematics and an M.S. in Computer Science at Stanford, where I worked in [Chelsea Finn](https://ai.stanford.edu/~cbfinn/)'s [IRIS lab](https://irislab.stanford.edu).
+Before that, I worked on number theory research at the [University of Virginia Research Experience for Undergraduates (REU)](https://uva.theopenscholar.com/reu/program), advised by [Charlotte Ure](https://about.illinoisstate.edu/cure/) and [Ken Ono](https://uva.theopenscholar.com/ken-ono/).
 At Stanford, I served as Professional Development Chair of [Tau Beta Pi](https://tbp.stanford.edu/professional/) (Engineering Honors Society).
 
-Please get in touch with me via email if you would like to chat about research!
+Please get in touch if you would like to chat about research!
 
 Publications & Preprints
 ------
