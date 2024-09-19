@@ -24,11 +24,9 @@ redirect_from:
 [//]: # (Please reach out via email if you would like to chat about research or collaboration!)
 
 Hi! I am a first-year PhD student in Computer Science at Stanford University.
-I am grateful to be supported by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org).
-
 Previously, I received a B.S. in Mathematics and an M.S. in Computer Science at Stanford, where I worked in [Chelsea Finn](https://ai.stanford.edu/~cbfinn/)'s [IRIS lab](https://irislab.stanford.edu).
-Before that, I worked on number theory research at the [University of Virginia Research Experience for Undergraduates (REU)](https://uva.theopenscholar.com/reu/program), advised by [Charlotte Ure](https://about.illinoisstate.edu/cure/) and [Ken Ono](https://uva.theopenscholar.com/ken-ono/).
-At Stanford, I served as Professional Development Chair of [Tau Beta Pi](https://tbp.stanford.edu/professional/) (Engineering Honors Society).
+Before that, I worked on number theory research at the [University of Virginia REU](https://uva.theopenscholar.com/reu/program), advised by [Charlotte Ure](https://about.illinoisstate.edu/cure/) and [Ken Ono](https://uva.theopenscholar.com/ken-ono/).
+I am grateful to be supported by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org).
 
 Please get in touch if you would like to chat about research!
 
