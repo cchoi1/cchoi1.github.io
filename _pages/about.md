@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-[//]: # (Hi! I'm Caroline, a first-year computer science PhD student at Stanford. )
+[//]: # (Hi! I am a first-year CS PhD student at Stanford, affiliated with the Stanford AI lab (SAIL) and the NLP group. )
 
-[//]: # (I am grateful to be supported by an NSF Graduate Research Fellowship.)
+[//]: # (I am supported by the NSF Graduate Research Fellowship and the Stanford EDGE Fellowship.)
 
 [//]: # ()
 [//]: # (My research interests lie in machine learning. )
@@ -24,11 +24,8 @@ redirect_from:
 [//]: # (Please reach out via email if you would like to chat about research or collaboration!)
 
 Hi! I am a first-year PhD student in Computer Science at Stanford University.
-Previously, I received a B.S. in Mathematics and an M.S. in Computer Science at Stanford, where I worked in [Chelsea Finn](https://ai.stanford.edu/~cbfinn/)'s [IRIS lab](https://irislab.stanford.edu).
-Before that, I worked on number theory research at the [University of Virginia REU](https://uva.theopenscholar.com/reu/program), advised by [Charlotte Ure](https://about.illinoisstate.edu/cure/) and [Ken Ono](https://uva.theopenscholar.com/ken-ono/).
-I am grateful to be supported by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org).
-
-Please get in touch if you would like to chat about research!
+I am supported by the NSF Graduate Research Fellowship and the Stanford EDGE Fellowship.
+Previously, I completed my M.S. in Computer Science and B.S. in Mathematics at Stanford, where I was fortunate to be advised by [Chelsea Finn](https://ai.stanford.edu/~cbfinn/)'s [IRIS lab](https://irislab.stanford.edu).
 
 Publications & Preprints
 ------
