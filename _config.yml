@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Caroline Choi"
 title_separator          : "-"
 name                     : &name "Caroline Choi"
-description              : &description "M.S. Student in CS at Stanford"
+description              : &description "CS Ph.D. Student at Stanford"
 url                      : https://cchoi1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cchoi1.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Caroline Choi"
   avatar           : "caroline_choi.jpg"
-  bio              : "M.S. Student in Computer Science"
-  location         : "Stanford, CA"
+  bio              : "cchoi1 at stanford dot edu"
+  location         :
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=f4G8d00AAAAJ&hl=en"
