@@ -8,22 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[//]: # (Hi! I am a first-year CS PhD student at Stanford, affiliated with the Stanford AI lab (SAIL) and the NLP group. )
-
-[//]: # (I am supported by the NSF Graduate Research Fellowship and the Stanford EDGE Fellowship.)
-
-[//]: # ()
-[//]: # (My research interests lie in machine learning. )
-
-[//]: # (Recently, I've worked on trustworthy machine learning, specifically robust adaptation of foundation models and understanding real-world distribution shifts.)
-
-[//]: # ()
-[//]: # (Previously, I graduated from Stanford with a &#40;B.S.&#41 in Mathematics and an &#40;M.S.&#41 in Computer Science. I am grateful to have worked in Chelsea Finn's IRIS lab.)
-
-[//]: # ()
-[//]: # (Please reach out via email if you would like to chat about research or collaboration!)
-
-Hi! I am a first-year PhD student in Computer Science at Stanford University.
+Hi! I am a first-year CS PhD student in AI at Stanford.
 I am supported by the NSF Graduate Research Fellowship and the Stanford EDGE Fellowship.
 Previously, I completed my M.S. in Computer Science and B.S. in Mathematics at Stanford, where I was fortunate to be advised by [Chelsea Finn](https://ai.stanford.edu/~cbfinn/)'s [IRIS lab](https://irislab.stanford.edu).
 
