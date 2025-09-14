@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a first-year CS PhD student at Stanford, broadly interested in reliable machine learning.
-I am grateful to be supported by the NSF Graduate Research Fellowship and the Stanford EDGE Fellowship.
-Previously, I completed my M.S. in Computer Science and B.S. in Mathematics at Stanford, where I was fortunate to be advised by [Chelsea Finn](https://ai.stanford.edu/~cbfinn/) in the [IRIS lab](https://irislab.stanford.edu).
+Hi! I'm Caroline, a second-year CS PhD student at Stanford University, where I'm fortunate to be advised by [Ludwig Schmidt](https://people.csail.mit.edu/ludwigs/) and [Tengyu Ma](https://ai.stanford.edu/~tengyuma/).
+I am supported by an NSF Graduate Research Fellowship and a Stanford EDGE Fellowship.
+Previously, I completed my M.S. in Computer Science and B.S. in Mathematics at Stanford, where I was advised by [Chelsea Finn](https://ai.stanford.edu/~cbfinn/) in the [IRIS lab](https://irislab.stanford.edu).
 
 Publications & Preprints
 ------
